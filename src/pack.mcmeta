@@ -2,14 +2,7 @@
     "pack" : {
         "description" : "§7Drop a player's head when they die",
 
-        "pack_format" : 81,
-
-		"supported_formats" : {
-            "min_inclusive": 5,
-            "max_inclusive": 81
-        },
-
-        "min_format": [5, 0],
-        "max_format": [123, 0]
+        "min_format": [111, 0],
+        "max_format": [128, 0]
     }
 }
